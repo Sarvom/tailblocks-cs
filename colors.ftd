@@ -224,7 +224,7 @@ dark: #65b693
 
 -- ftd.color cta-danger-border-disabled-:
 light: #65b693
-dark: #65b693
+dark: #65b694
 
 -- ftd.cta-colors cta-danger-:
 base: $cta-danger-base-
