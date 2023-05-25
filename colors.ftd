@@ -121,7 +121,7 @@ light: #F3A063
 dark: #F3A063
 
 -- ftd.color cta-secondary-text-:
-light: #FFFFFF
+light: #4B5563
 dark: #FFFFFF
 
 -- ftd.color cta-secondary-text-disabled-:
