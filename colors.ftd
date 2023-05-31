@@ -255,7 +255,7 @@ secondary: $accent-secondary-
 tertiary: $accent-tertiary-
 
 -- ftd.color error-base-:
-light: #F9E4E1
+light: #F9E4E0
 dark: #F9E4E1
 
 -- ftd.color error-text-:
